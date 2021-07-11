@@ -1,3 +1,7 @@
+React tutorial from https://medium.com/geekculture/how-to-build-an-ecommerce-app-with-react-a040bec4089d by Ashutosh K Singh
+React using Chakra UI, ButterCMS, Snipcart and deployed using Stormkit
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
